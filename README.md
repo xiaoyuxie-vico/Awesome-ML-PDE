@@ -13,7 +13,9 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 | PINNs                   | Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707; | Brown University                   | [Paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125?casa_token=LpL_wvHQ4CIAAAAA:9xVIgdgQV8GJnbMHbNvP7Kv_gMncbyvEcVFUQI16hhdexW6B7Mzx03LJC4QSr9txfUZ3kI2OEQ), [Code](https://github.com/maziarraissi/PINNs) |
 |                         |                                                              |                                    |                                                              |
 # Notes
-[Notes for Machine Learning for Fluid Mechanics](./notes/Notes for Machine Learning for Fluid Mechanics.md)
+[Notes for Machine Learning for Fluid Mechanics](notes/Notes_for_Machine_Learning_for_Fluid_Mechanics.md)
+
+
 
 
 # Contact

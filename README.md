@@ -25,3 +25,10 @@ Note that I think researchers in different universities or companies use differn
 # Videos
 
 - [Machine Learning for Fluid Mechanics](https://www.youtube.com/watch?v=8e3OT2K99Kw)
+
+# Contact
+
+- Email: xiaoyuxie2020@u.northwestern.edu
+
+I also extremely welcome any comments or feedbacks to this respository.
+

@@ -17,4 +17,3 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 Email: xiaoyuxie2020@u.northwestern.edu
 
 I also extremely welcome any comments or feedbacks to this respository.
-

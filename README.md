@@ -1,4 +1,4 @@
-# Machine Learning for PDEs Solvers
+# Machine Learning / Deep Learning for PDEs Solvers
 
 Recently, there are a growing number of papers trying to solve PDEs with Machine Learning. This respository is trying to collect papers, blogs, videos, and any format materials in this field. I believe this filed will have a huge impact on science and engineering, although it still has some unsolved problems.
 

@@ -19,9 +19,9 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 - [Petros Koumoutsakos: "Machine Learning for Fluid Mechanics"](https://www.youtube.com/watch?v=gv20VsKqgpc)
 
 # Contact
-
-Email: xiaoyuxie2020@u.northwestern.edu
+If you like, please star or fork.
 
 Welcome any comments or feedbacks!
 
-If you like, please star or fork.
+Email: xiaoyuxie2020@u.northwestern.edu
+

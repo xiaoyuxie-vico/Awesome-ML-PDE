@@ -26,6 +26,11 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 
 # Blogs
 
+# Research Groups
+- [Brunton Lab: Data-driven dynamics and control](https://www.eigensteve.com/)
+- [Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/group.html)
+- [Wing Kam Liu Group](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-kam-wing.html)
+
 # Contact
 If you like, please star or fork.
 

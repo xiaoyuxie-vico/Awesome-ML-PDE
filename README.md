@@ -25,6 +25,7 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 - [Petros Koumoutsakos: "Machine Learning for Fluid Mechanics"](https://www.youtube.com/watch?v=gv20VsKqgpc)
 
 # Blogs
+- [Fourier Neural Operator](https://zongyi-li.github.io/blog/2020/fourier-pde/)
 
 # Research Groups
 - [Brunton Lab: Data-driven dynamics and control](https://www.eigensteve.com/)

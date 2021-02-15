@@ -18,6 +18,8 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 - [Steve Brunton: Machine Learning for Fluid Dynamics](https://www.youtube.com/watch?v=20vB4MzAbCwv)
 - [Petros Koumoutsakos: "Machine Learning for Fluid Mechanics"](https://www.youtube.com/watch?v=gv20VsKqgpc)
 
+# Blogs
+
 # Contact
 If you like, please star or fork.
 

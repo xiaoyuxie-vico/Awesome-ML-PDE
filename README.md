@@ -19,6 +19,9 @@ Recently, there are a growing number of papers trying to solve PDEs with Machine
 |                         | Freund, Jonathan B., Jonathan F. MacArt, and Justin Sirignano. "**DPM: A deep learning PDE augmentation method (with application to large-eddy simulation).**" *arXiv preprint arXiv:1911.09145* (2019). | [Paper](https://arxiv.org/abs/1911.09145https://arxiv.org/abs/1911.09145) |                   |
 |                         | Um, Kiwon, et al. "**Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers.**" *arXiv preprint arXiv:2007.00016* (2020). | [Paper](https://arxiv.org/abs/2007.00016)                    |                   |
 
+# Libraries
+- [torchdyn](https://github.com/DiffEqML/torchdyn): A PyTorch based library for all things neural differential equations.
+
 # Videos
 - [2020-10-16 - Jaideep Pathak - Using ML to Augment Coarse-Grid CFD Simulations](https://www.youtube.com/watch?v=2Ab-8xTI89c)
 - [Steve Brunton: Machine Learning for Fluid Dynamics](https://www.youtube.com/watch?v=20vB4MzAbCwv)
